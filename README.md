@@ -1,32 +1,60 @@
-# About Me  
+<!-- Banner: put a banner GIF or PNG at ./assets/banner.gif -->
+<p align="center">
+  <img src="./assets/banner.gif" alt="Banner" width="100%"/>
+</p>
 
-I’m a **Computer Engineering student** passionate about blending **design, technology, and innovation** to create digital experiences that make a real difference.  
+# About Me
 
-My interests include:  
-- **UI/UX Design** – crafting intuitive and user-centered interfaces  
-- **Scalable Web Applications** – building robust and efficient systems  
-- **Emerging Technologies** – exploring new tools that push the boundaries of what’s possible  
+I am a Computer Engineering student focused on blending design, technology and innovation to build efficient and meaningful digital products.
 
-I enjoy taking ideas from **concept to execution**—whether it’s designing interfaces, developing applications, or collaborating with teams to bring projects to life.  
+My core interests:
+- UI/UX Design — crafting user-centered interfaces  
+- Scalable Web Applications — building robust systems  
+- Emerging Technologies — exploring AI/ML and modern tooling
 
-Beyond technical expertise, I value **leadership, adaptability, and collaboration**, qualities that have shaped my academic and professional journey. I approach challenges with curiosity and persistence, believing that **continuous learning fuels innovation**.  
-
-Looking ahead, I aspire to grow into a **versatile engineer and product leader**, contributing to projects that merge **technology, creativity, and social impact**.  
-
----
-
-## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanchitaprajurkar&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchitaprajurkar&layout=compact&theme=default)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sanchitaprajurkar&theme=default&hide_border=false)  
+I convert ideas from concept to execution — designing interfaces, building systems, and working with teams to ship value. I value leadership, adaptability and collaboration, and I am committed to continuous learning.
 
 ---
 
-## Let’s Connect
-- Email: sanchitarajurkar@gmail.com
-- LinkedIn: www.linkedin.com/in/sanchita-rajurkar-840180297  
-  
+<!-- Typing animation for skills (replace text in the URL if you want different lines) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=222222&width=700&lines=UI%20%26%20UX;Scalable%20Web%20Apps;AI%20%26%20ML;Product%20Thinking" alt="typing"/>
+</p>
 
 ---
 
-*"I believe in continuous learning, collaboration, and creating solutions that make a difference."*
+## Tech Stack
+- **Languages:** C, C++, Java, Python  
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
+- **Backend:** Spring Boot, Node.js  
+- **Databases & Tools:** MySQL, MongoDB, Git, VS Code, Figma
+
+---
+
+## Activity & Stats
+
+<!-- Activity heatmap -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Sanchitaprajurkar&theme=github" alt="Contribution graph" />
+</p>
+
+<!-- Streaks -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sanchitaprajurkar&theme=default&hide_border=true" alt="streaks" />
+</p>
+
+<!-- GitHub commit/language stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanchitaprajurkar&show_icons=true&theme=default" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchitaprajurkar&layout=compact&theme=default" alt="top languages" />
+</p>
+
+---
+
+## Contact
+- Email: sanchitarajurkar@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/sanchita-rajurkar-840180297  
+
+---
+
+*I believe in continuous learning, collaboration and building solutions that make a difference.*
