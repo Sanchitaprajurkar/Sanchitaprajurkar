@@ -9,7 +9,8 @@ My interests include:
 
 I love taking ideas from **concept to execution**—whether it’s designing interfaces, developing applications, or collaborating with teams to bring products to life.  
 
-Beyond technical skills, I value **leadership, adaptability, and collaboration**. I approach challenges with curiosity and persistence, believing that **continuous learning fuels innovation**.  
+Beyond technical skills, I value **leadership, adaptability, and collaboration**.  
+I approach challenges with curiosity and persistence, believing that **continuous learning fuels innovation**.  
 
 Looking ahead, I aspire to grow into a **versatile engineer and product leader**, contributing to projects that merge **technology, creativity, and social impact**.  
 
@@ -17,19 +18,22 @@ Looking ahead, I aspire to grow into a **versatile engineer and product leader**
 
 ## 📊 GitHub Statistics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanchitaprajurkar&show_icons=true&theme=radical&hide_border=false)  
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sanchitaprajurkar&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchitaprajurkar&layout=compact&theme=radical&hide_border=false)  
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sanchitaprajurkar&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sanchitaprajurkar&theme=radical&hide_border=false)  
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Sanchitaprajurkar&theme=radical)
 
 ---
 
 ## 🌐 Let’s Connect  
 
 - ✉️ Email: **sanchitarajurkar@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin) <!-- Replace this with your actual LinkedIn handle -->
+- 💼 LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)  
 
 ---
 
-> *"I believe in continuous learning, collaboration, and creating solutions that make a difference."*
+> _"I believe in continuous learning, collaboration, and creating solutions that make a difference."_  
