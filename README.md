@@ -20,16 +20,27 @@ Looking ahead, I aspire to grow into a **versatile engineer and product leader**
 
 ### 💡 My Focus Areas
 
-* 🎨 **UI/UX Design** – Crafting intuitive, user-centered interfaces.  
-* 🧩 **Scalable Web Applications** – Building robust and efficient systems.  
+* 🎨 **UI/UX Design** – Crafting intuitive, user-centered interfaces.
+* 🧩 **Scalable Web Applications** – Building robust and efficient systems.
 * 🚀 **Emerging Technologies** – Exploring tools that push the boundaries of what’s possible.
 
 ---
 
-## 🟩 Contribution Graph (Yearly Activity)
+## 📊 My GitHub Activity (Black & Pink Theme)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanchitaprajurkar&theme=dark" alt="Sanchita's GitHub Activity Graph" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sanchitaprajurkar&show_icons=true&hide_border=true&bg_color=000000&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF&rank_label=Rank" alt="Sanchita's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchitaprajurkar&layout=compact&hide_border=true&bg_color=000000&title_color=FF69B4&text_color=FFFFFF&icon_color=FF69B4" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🟩 Contribution Graph (Pink/Magenta Theme)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanchitaprajurkar&theme=shadow_red" alt="Sanchita's GitHub Activity Graph" />
 </div>
 
 ---
@@ -42,7 +53,7 @@ Looking ahead, I aspire to grow into a **versatile engineer and product leader**
 ## 🤝 Let’s Connect
 
 - ✉️ Email: **sanchitarajurkar@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/YOUR-REAL-LINKEDIN](https://linkedin.com/in/YOUR-REAL-LINKEDIN) **← replace with your actual URL**
+- 💼 LinkedIn: [linkedin.com/in/YOUR-REAL-LINKEDIN](https://linkedin.com/in/YOUR-REAL-LINKEDIN) **← CRITICAL: Replace this with your actual URL**
 
 ---
 
