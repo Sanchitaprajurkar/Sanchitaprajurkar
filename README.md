@@ -32,7 +32,7 @@ Looking ahead, I aspire to grow into a **versatile engineer and product leader**
 
 | GitHub Stats | Top Languages | GitHub Streak |
 | :---: | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Sanchitaprajurkar&show_icons=true&theme=radical&hide_border=true" alt="Sanchita's GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchitaprajurkar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> | <img src="https://streak-stats.demolab.com?user=Sanchitaprajurkar&theme=radical&hide_border=true" alt="GitHub Streak" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=Sanchitaprajurkar&show_icons=true&theme=radical&hide_border=true&show_owner=true" alt="Sanchita's GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchitaprajurkar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> | <img src="https://streak-stats.demolab.com?user=Sanchitaprajurkar&theme=radical&hide_border=true" alt="GitHub Streak" /> |
 
 </div>
 
