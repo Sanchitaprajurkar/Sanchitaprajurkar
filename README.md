@@ -11,23 +11,21 @@
   <img src="https://img.shields.io/badge/Figma-FFB6D5?style=for-the-badge&logo=figma&logoColor=000000" />
 </p>
 
-I’m a **Computer Engineering student** passionate about blending **design, technology, and innovation** to build meaningful digital experiences. I love taking ideas from **concept to execution**—whether it’s designing interfaces, developing applications, or collaborating with teams to bring products to life.
+I’m a **Computer Engineering student** passionate about blending **design, technology, and innovation** to build meaningful digital experiences. I love taking ideas from **concept to execution**—whether it’s designing interfaces, developing applications, or collaborating with teams.
 
-Beyond technical skills, I value **leadership, adaptability, and collaboration**. I approach challenges with curiosity and persistence, believing that **continuous learning fuels innovation**.
-
-Looking ahead, I aspire to grow into a **versatile engineer and product leader**, contributing to projects that merge **technology, creativity, and social impact**.
+I value **leadership, adaptability, collaboration**, and I truly believe **continuous learning fuels innovation**.
 
 ---
 
 ## 💡 My Focus Areas
 
-* 🎨 **UI/UX Design** – Crafting intuitive, user-centered interfaces.
-* 🧩 **Scalable Web Applications** – Building robust and efficient systems.
-* 🚀 **Emerging Technologies** – Exploring tools that push boundaries.
+- 🎨 **UI/UX Design**
+- 🧩 **Scalable Web Applications**
+- 🚀 **Emerging Technologies**
 
 ---
 
-# 📊 GitHub Stats (Pastel Pink on Black)
+# 📊 GitHub Stats (Pastel Pink × Black)
 
 <div align="center">
 
@@ -39,7 +37,7 @@ Looking ahead, I aspire to grow into a **versatile engineer and product leader**
 
 ---
 
-# 🟩 Contribution Graph (Pastel Pink on Black)
+# 🟩 Activity Graph (Pastel Pink × Black)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanchitaprajurkar&bg_color=000000&color=FFB6D5&line=FFB6D5&point=FFFFFF&area_color=000000&hide_border=true" />
@@ -47,16 +45,28 @@ Looking ahead, I aspire to grow into a **versatile engineer and product leader**
 
 ---
 
-## ⭐ Featured Projects
+# 🌸 Real GitHub Contribution Calendar  
+### *(Styled with Pastel Pink on Black)*
 
-*(Add your pinned repos here — want me to style these too?)*
+<div align="center" style="background-color:#000000; padding:20px; border-radius:12px; border:1px solid #FFB6D5; display:inline-block;">
+
+  <!-- 🔥 REPLACE THIS LINK WITH YOUR REAL IMAGE LINK -->
+  <img src="YOUR_IMAGE_LINK_HERE" 
+       alt="GitHub Contribution Calendar" 
+       style="border-radius:8px; width:100%; max-width:900px;" />
+</div>
+
+---
+
+## ⭐ Featured Projects  
+*(Want me to style these too?)*
 
 ---
 
 ## 🤝 Let’s Connect
 
 - ✉️ Email: **sanchitarajurkar@gmail.com**
-- 💼 LinkedIn: **Replace with your real link**
+- 💼 LinkedIn: **Replace with actual link**
 
 ---
 
