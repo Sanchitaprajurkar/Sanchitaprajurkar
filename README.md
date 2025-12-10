@@ -4,6 +4,7 @@
 </div>
 
 <p align="center">
+  <!-- Pastel Pink Badges -->
   <img src="https://img.shields.io/badge/Python-FFB6D5?style=for-the-badge&logo=python&logoColor=000000" />
   <img src="https://img.shields.io/badge/Dart-FFB6D5?style=for-the-badge&logo=dart&logoColor=000000" />
   <img src="https://img.shields.io/badge/React-FFB6D5?style=for-the-badge&logo=react&logoColor=000000" />
@@ -17,87 +18,45 @@ I value **leadership, adaptability, collaboration**, and I truly believe **conti
 ---
 
 ## 💡 My Focus Areas
+
 - 🎨 **UI/UX Design**
 - 🧩 **Scalable Web Applications**
 - 🚀 **Emerging Technologies**
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats (Pastel Pink × Black)
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanchitaprajurkar&show_icons=true&theme=radical&bg_color=000000&title_color=FFB6D5&text_color=FFFFFF&icon_color=FFB6D5&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchitaprajurkar&layout=compact&theme=radical&bg_color=000000&title_color=FFB6D5&text_color=FFFFFF&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Sanchitaprajurkar&show_icons=true&hide_border=true&bg_color=000000&title_color=FFB6D5&text_color=FFFFFF&icon_color=FFB6D5&rank_label=Rank" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchitaprajurkar&layout=compact&hide_border=true&bg_color=000000&title_color=FFB6D5&text_color=FFFFFF&icon_color=FFB6D5" />
 
 </div>
 
 ---
 
-## 🟩 GitHub Activity Graph
+# 📈 GitHub Activity Graph  
+### *(Styled with Pastel Pink on Black)*
 
 <div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanchitaprajurkar&bg_color=000000&color=FFB6D5&line=FFB6D5&point=FFFFFF&area=true&hide_border=true)
-
+  <!-- Using the new service domain as per the official project update -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sanchitaprajurkar&bg_color=000000&color=FFB6D5&line=FFB6D5&point=FFFFFF&area_color=000000&hide_border=true" />
 </div>
 
 ---
 
-## 🔥 GitHub Streak Stats
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanchitaprajurkar&theme=radical&background=000000&ring=FFB6D5&fire=FFB6D5&currStreakLabel=FFB6D5&sideLabels=FFB6D5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sanchitaprajurkar&theme=radical&no-frame=true&no-bg=true&margin-w=4&title_color=FFB6D5&text_color=FFFFFF&icon_color=FFB6D5)
-
-</div>
-
----
-
-## ⭐ Featured Projects
-
-<!-- Add your projects here -->
-```
-🚀 Project 1 - Description
-🎨 Project 2 - Description
-💡 Project 3 - Description
-```
+## ⭐ Featured Projects  
+*(Want me to style these too?)*
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="mailto:sanchitarajurkar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFB6D5?style=for-the-badge&logo=gmail&logoColor=000000" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-FFB6D5?style=for-the-badge&logo=linkedin&logoColor=000000" />
-  </a>
-  <a href="https://github.com/Sanchitaprajurkar">
-    <img src="https://img.shields.io/badge/GitHub-FFB6D5?style=for-the-badge&logo=github&logoColor=000000" />
-  </a>
-</p>
+- ✉️ Email: **sanchitarajurkar@gmail.com**
+- 💼 LinkedIn: **Replace with actual link**
 
 ---
 
-<div align="center">
-  <i>"I believe in continuous learning, collaboration, and creating solutions that make a difference."</i>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sanchitaprajurkar&color=FFB6D5&style=for-the-badge&label=PROFILE+VIEWS" />
-</div>
+> *"I believe in continuous learning, collaboration, and creating solutions that make a difference."*
