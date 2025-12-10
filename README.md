@@ -18,19 +18,20 @@ Looking ahead, I aspire to grow into a **versatile engineer and product leader**
 
 ## 📊 GitHub Statistics  
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sanchitaprajurkar&show_icons=true&theme=radical)
+<!-- GitHub Stats (fixed link) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanchitaprajurkar&show_icons=true&theme=radical)
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sanchitaprajurkar&layout=compact&theme=radical)
+<!-- Top Languages (fixed link) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchitaprajurkar&layout=compact&theme=radical)
 
-<!-- Streak Stats -->
+<!-- Streak Stats (this one already works usually) -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sanchitaprajurkar&theme=radical)
 
 ---
 
-## 🟩 Contribution Graph
+## 🟩 Contribution Graph  
 
+<!-- Activity / Contribution-style graph -->
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanchitaprajurkar&theme=radical)
 
 ---
