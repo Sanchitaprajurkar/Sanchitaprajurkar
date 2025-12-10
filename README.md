@@ -4,16 +4,15 @@
 </div>
 
 <p align="center">
-  <!-- Pastel Pink Badges -->
   <img src="https://img.shields.io/badge/Python-FFB6D5?style=for-the-badge&logo=python&logoColor=000000" />
   <img src="https://img.shields.io/badge/Dart-FFB6D5?style=for-the-badge&logo=dart&logoColor=000000" />
   <img src="https://img.shields.io/badge/React-FFB6D5?style=for-the-badge&logo=react&logoColor=000000" />
   <img src="https://img.shields.io/badge/Figma-FFB6D5?style=for-the-badge&logo=figma&logoColor=000000" />
 </p>
 
-I'm a **Computer Engineering student** passionate about blending **design, technology, and innovation** to build meaningful digital experiences. I love taking ideas from **concept to execution**—whether it's designing interfaces, developing applications, or collaborating with teams.
-
-I value **leadership, adaptability, collaboration**, and I truly believe **continuous learning fuels innovation**.
+I’m a **Computer Engineering student** passionate about blending **design, technology, and innovation** to build meaningful digital experiences.  
+I enjoy taking ideas from **concept → design → development**, and I truly believe that  
+**continuous learning fuels innovation**.
 
 ---
 
@@ -37,26 +36,41 @@ I value **leadership, adaptability, collaboration**, and I truly believe **conti
 
 ---
 
-# 📈 GitHub Activity Graph  
-### *(Styled with Pastel Pink on Black)*
+# 🟩 Activity Graph (Pastel Pink × Black)
 
 <div align="center">
-  <!-- Using the new service domain as per the official project update -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sanchitaprajurkar&bg_color=000000&color=FFB6D5&line=FFB6D5&point=FFFFFF&area_color=000000&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanchitaprajurkar&bg_color=000000&color=FFB6D5&line=FFB6D5&point=FFFFFF&area_color=000000&hide_border=true" />
+</div>
+
+---
+
+# 🌸 Real GitHub Contribution Calendar  
+### *(Black background + Pastel Pink Frame Style)*
+
+> 🔥 **IMPORTANT:** Replace the link below with your uploaded screenshot link.
+
+<div align="center">
+
+<img 
+  src="YOUR_IMAGE_LINK_HERE" 
+  alt="GitHub Contribution Calendar"
+  width="900px"
+/>
+
 </div>
 
 ---
 
 ## ⭐ Featured Projects  
-*(Want me to style these too?)*
+*(Add or I can style for you)*
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
 - ✉️ Email: **sanchitarajurkar@gmail.com**
-- 💼 LinkedIn: **Replace with actual link**
+- 💼 LinkedIn: **Replace with your real link**
 
 ---
 
-> *"I believe in continuous learning, collaboration, and creating solutions that make a difference."*
+> _"I believe in continuous learning, collaboration, and creating solutions that make a difference."_
