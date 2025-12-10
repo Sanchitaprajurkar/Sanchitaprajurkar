@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Sanchita </h1>
+  <h1>Hi, I'm Sanchita 👋</h1>
   <h3>💻 Computer Engineering Student | UI/UX & Product Focus</h3>
 </div>
 
@@ -20,23 +20,11 @@ Looking ahead, I aspire to grow into a **versatile engineer and product leader**
 
 ### 💡 My Focus Areas
 
-* 🎨 **UI/UX Design** – Crafting intuitive, user-centered interfaces.
-* 🧩 **Scalable Web Applications** – Building robust and efficient systems.
+* 🎨 **UI/UX Design** – Crafting intuitive, user-centered interfaces.  
+* 🧩 **Scalable Web Applications** – Building robust and efficient systems.  
 * 🚀 **Emerging Technologies** – Exploring tools that push the boundaries of what’s possible.
 
 ---
-
-## 📊 My GitHub Insights
-
-<div align="center">
-
-| GitHub Streak |
-| :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Sanchitaprajurkar&show_icons=true&theme=radical&hide_border=true&show_owner=true" alt="Sanchita's GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchitaprajurkar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> | <img src="https://streak-stats.demolab.com?user=Sanchitaprajurkar&theme=radical&hide_border=true" alt="GitHub Streak" /> |
-
-</div>
-
-<br/>
 
 ## 🟩 Contribution Graph (Yearly Activity)
 
@@ -54,7 +42,7 @@ Looking ahead, I aspire to grow into a **versatile engineer and product leader**
 ## 🤝 Let’s Connect
 
 - ✉️ Email: **sanchitarajurkar@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/YOUR-REAL-LINKEDIN](https://linkedin.com/in/YOUR-REAL-LINKEDIN) **<-- CRITICAL: Replace this with your actual URL**
+- 💼 LinkedIn: [linkedin.com/in/YOUR-REAL-LINKEDIN](https://linkedin.com/in/YOUR-REAL-LINKEDIN) **← replace with your actual URL**
 
 ---
 
