@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Sanchita 👋</h1>
+  <h1>Hi, I'm Sanchita </h1>
   <h3>💻 Computer Engineering Student | UI/UX & Product Focus</h3>
 </div>
 
@@ -26,12 +26,12 @@ Looking ahead, I aspire to grow into a **versatile engineer and product leader**
 
 ---
 
-## 📊 My GitHub Activity
+## 📊 My GitHub Insights
 
 <div align="center">
 
-| GitHub Stats | Top Languages | GitHub Streak |
-| :---: | :---: | :---: |
+| GitHub Streak |
+| :---: |
 | <img src="https://github-readme-stats.vercel.app/api?username=Sanchitaprajurkar&show_icons=true&theme=radical&hide_border=true&show_owner=true" alt="Sanchita's GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchitaprajurkar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> | <img src="https://streak-stats.demolab.com?user=Sanchitaprajurkar&theme=radical&hide_border=true" alt="GitHub Streak" /> |
 
 </div>
