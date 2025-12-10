@@ -4,10 +4,11 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />
+  <!-- Pastel Pink Badges -->
+  <img src="https://img.shields.io/badge/Python-FFB6D5?style=for-the-badge&logo=python&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Dart-FFB6D5?style=for-the-badge&logo=dart&logoColor=000000" />
+  <img src="https://img.shields.io/badge/React-FFB6D5?style=for-the-badge&logo=react&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Figma-FFB6D5?style=for-the-badge&logo=figma&logoColor=000000" />
 </p>
 
 I’m a **Computer Engineering student** passionate about blending **design, technology, and innovation** to build meaningful digital experiences. I love taking ideas from **concept to execution**—whether it’s designing interfaces, developing applications, or collaborating with teams to bring products to life.
@@ -18,42 +19,44 @@ Looking ahead, I aspire to grow into a **versatile engineer and product leader**
 
 ---
 
-### 💡 My Focus Areas
+## 💡 My Focus Areas
 
 * 🎨 **UI/UX Design** – Crafting intuitive, user-centered interfaces.
 * 🧩 **Scalable Web Applications** – Building robust and efficient systems.
-* 🚀 **Emerging Technologies** – Exploring tools that push the boundaries of what’s possible.
+* 🚀 **Emerging Technologies** – Exploring tools that push boundaries.
 
 ---
 
-## 📊 My GitHub Activity (Black & Pink Theme)
+# 📊 GitHub Stats (Pastel Pink on Black)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sanchitaprajurkar&show_icons=true&hide_border=true&bg_color=000000&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF&rank_label=Rank" alt="Sanchita's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchitaprajurkar&layout=compact&hide_border=true&bg_color=000000&title_color=FF69B4&text_color=FFFFFF&icon_color=FF69B4" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sanchitaprajurkar&show_icons=true&hide_border=true&bg_color=000000&title_color=FFB6D5&text_color=FFFFFF&icon_color=FFB6D5&rank_label=Rank" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchitaprajurkar&layout=compact&hide_border=true&bg_color=000000&title_color=FFB6D5&text_color=FFFFFF&icon_color=FFB6D5" />
 
 </div>
 
 ---
 
-## 🟩 Contribution Graph (Pink/Magenta Theme)
+# 🟩 Contribution Graph (Pastel Pink on Black)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanchitaprajurkar&theme=shadow_red" alt="Sanchita's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanchitaprajurkar&bg_color=000000&color=FFB6D5&line=FFB6D5&point=FFFFFF&area_color=000000&hide_border=true" />
 </div>
 
 ---
 
-### 📌 My Featured Projects
-*(These are the repositories you pinned on your profile.)*
+## ⭐ Featured Projects
+
+*(Add your pinned repos here — want me to style these too?)*
 
 ---
 
 ## 🤝 Let’s Connect
 
 - ✉️ Email: **sanchitarajurkar@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/YOUR-REAL-LINKEDIN](https://linkedin.com/in/YOUR-REAL-LINKEDIN) **← CRITICAL: Replace this with your actual URL**
+- 💼 LinkedIn: **Replace with your real link**
 
 ---
 
