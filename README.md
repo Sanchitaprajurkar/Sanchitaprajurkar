@@ -13,7 +13,7 @@ I enjoy taking ideas from **concept → design → development**, and I truly be
 - 🧩 **Scalable Web Applications**
 - 🚀 **Emerging Technologies**
 
-## 🟩 Activity Graph
+## 🟩 Activity 
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanchitaprajurkar&bg_color=000000&color=FFB6D5&line=FFB6D5&point=FFFFFF&area_color=000000&hide_border=true" alt="Sanchita's GitHub Activity Graph" />
