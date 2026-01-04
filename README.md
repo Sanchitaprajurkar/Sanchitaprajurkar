@@ -25,4 +25,4 @@ I enjoy taking ideas from **concept → design → development**, and I truly be
 - 💼 LinkedIn: [**Connect on LinkedIn**](YOUR_LINKEDIN_PROFILE_URL_HERE)
 
 
-> _"I believe in continuous learning, collaboration, and creating solutions that make a difference."_
+> _"I believe in continuous learning, collaboration, and creating solutions that make a difference.."_
