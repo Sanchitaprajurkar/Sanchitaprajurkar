@@ -2,6 +2,9 @@
   <h1>Hi, I'm Sanchita 👋</h1>
   <h3>💻 Computer Engineering Student | UI/UX & Product Focus</h3>
 </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sanchitaprajurkar&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views" />
+</p>
 
 I’m a **Computer Engineering student** passionate about blending **design, technology, and innovation** to build meaningful digital experiences.  
 I enjoy taking ideas from **concept → design → development**, and I truly believe that  
